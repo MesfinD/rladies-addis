@@ -1,7 +1,9 @@
 BU Study Group (a [Mozilla Study Group](https://www.mozillascience.org/))
 ============
 
-Welcome to BU's Study Group. We are a group of students, staff, and researchers interested in open science, coding, reproducible research, and research. We're an open group and anyone associated with BU is welcome to join, attend, or lead a session. 
+Connect with like-minded researchers at a fun, informal meetup where participants share skills, experiences, and ideas around open research, open source, code, and community in research.
+
+Researchers come to BU with diverse experiences with programming and open research, from postdocs who have contributed to major open science projects, to graduate students hoping to get their labs on the open science bandwagon, to new graduate students who may never have programmed before. The Study Group is a place to learn from these diverse experiences to build BU's open research community.
 
 ## Getting started
 
@@ -13,10 +15,6 @@ Welcome to BU's Study Group. We are a group of students, staff, and researchers 
 - Watch this repo: Click the button that says 'Watch' in the top right of the page to get email notifications of issues. If you don't want email, you can change your settings in Settings -> Notification Center (click on the little cog in the top right).
 - Check out our [code of conduct](codeOfConduct.md)
 - Feel free to add yourself to the "Who We Are" section of the website. Click on Branch and select `gh-pages` to get taken to the website branch. Under `_data`, you'll find a file called `members.yml`. If you want to try out your git skills, [fork the repository](https://help.github.com/articles/fork-a-repo/), add your data to `members.yml` and [open a pull request](https://help.github.com/articles/about-pull-requests/). Or just create an issue, and we'll help you out!
-
-## Wait What's a 'Mozilla Study Group'?
-
-Mozilla Study Groups are fun, informal meetups of your friends and colleagues from around your local institution or town to share skills, stories and ideas on using code for research. The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers.
 
 ## View our lessons and talks 
 
